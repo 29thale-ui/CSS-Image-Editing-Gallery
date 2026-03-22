@@ -25,3 +25,7 @@ img {
     max-width: 25%;
     padding: 0 4px;
 }
+
+#img-1 {
+    filter: grayscale(100%);
+}
