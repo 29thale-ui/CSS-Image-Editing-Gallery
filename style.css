@@ -29,3 +29,11 @@ img {
 #img-1 {
     filter: grayscale(100%);
 }
+
+#img-2 {
+     filter: contrast(200%); filter: brightness(150%);
+}
+
+#img-2 {
+    ilter: saturate(300%) blur(1.5px)
+}
