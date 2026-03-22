@@ -34,6 +34,6 @@ img {
      filter: contrast(200%); filter: brightness(150%);
 }
 
-#img-2 {
-    ilter: saturate(300%) blur(1.5px)
+#img-3 {
+    filter: saturate(300%) blur(1.5px)
 }
